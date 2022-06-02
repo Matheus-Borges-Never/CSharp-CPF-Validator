@@ -1,0 +1,11 @@
+C:\Users\matheus.bpaulino\source\repos\Validação de CPF\Validação de CPF\bin\Debug\Validação de CPF.exe.config
+C:\Users\matheus.bpaulino\source\repos\Validação de CPF\Validação de CPF\bin\Debug\Validação de CPF.exe
+C:\Users\matheus.bpaulino\source\repos\Validação de CPF\Validação de CPF\bin\Debug\Validação de CPF.pdb
+C:\Users\matheus.bpaulino\source\repos\Validação de CPF\Validação de CPF\obj\Debug\Validação de CPF.csproj.AssemblyReference.cache
+C:\Users\matheus.bpaulino\source\repos\Validação de CPF\Validação de CPF\obj\Debug\Validação de CPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\matheus.bpaulino\source\repos\Validação de CPF\Validação de CPF\obj\Debug\Validação_de_CPF.Form1.resources
+C:\Users\matheus.bpaulino\source\repos\Validação de CPF\Validação de CPF\obj\Debug\Validação_de_CPF.Properties.Resources.resources
+C:\Users\matheus.bpaulino\source\repos\Validação de CPF\Validação de CPF\obj\Debug\Validação de CPF.csproj.GenerateResource.cache
+C:\Users\matheus.bpaulino\source\repos\Validação de CPF\Validação de CPF\obj\Debug\Validação de CPF.csproj.CoreCompileInputs.cache
+C:\Users\matheus.bpaulino\source\repos\Validação de CPF\Validação de CPF\obj\Debug\Validação de CPF.exe
+C:\Users\matheus.bpaulino\source\repos\Validação de CPF\Validação de CPF\obj\Debug\Validação de CPF.pdb
